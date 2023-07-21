@@ -1,0 +1,12 @@
+.footer-contatos {
+ display: flex;
+ justify-content: center;
+ gap: 50px;
+ align-items: center;
+ color: #fff;
+ padding: 8px;
+}
+.contatos {
+ display: flex;
+ gap: 5px;
+}
